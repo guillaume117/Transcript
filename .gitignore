@@ -1,0 +1,9 @@
+*.wav
+*.txt
+*.m4a
+/tmp_speechbrain/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
